@@ -1,0 +1,30 @@
+.box{
+    height: 890px;
+    background-color: black;
+    width:25%;
+    float:left;
+    border-radius: 35px;
+    
+}
+
+.box1{
+    background-color: chartreuse;
+    text-align: center;
+
+}
+
+.box2{
+    background-color: yellow;
+    text-align: center;
+  
+}
+
+.box3{
+    background-color: rgb(255, 0, 140);
+    text-align: center;
+}
+
+.box4{
+    background-color: rgb(111, 0, 255);
+    text-align: center;
+}
